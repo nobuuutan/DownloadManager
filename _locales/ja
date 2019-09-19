@@ -1,0 +1,334 @@
+{
+   "badChromeVersion": {
+      "description": "",
+      "message": "ダウンロードAPIは、開発およびベータチャネルでのみ利用可能です. ここでChromeを更新します."
+   },
+   "contextMenuOpen": {
+      "description": "",
+      "message": "開く"
+   },
+   "contextMenuOpenFolder": {
+      "description": "",
+      "message": "含まれるフォルダーを開く"
+   },
+   "contextMenuGoToDownloadPage": {
+      "description": "",
+      "message": "ダウンロードページに移動"
+   },
+   "contextMenuDownloadLink": {
+      "description": "",
+      "message": "ダウンロードリンクのコピー"
+   },
+   "contextMenuDeleteFromDisk": {
+      "description": "",
+      "message": "ディスクから削除"
+   },
+   "contextMenuRemoveFromList": {
+      "description": "",
+      "message": "リストから削除する"
+   },
+   "translationTitle": {
+      "description": "",
+      "message": "翻訳のお手伝い"
+   },
+   "AllDownloadsTitle": {
+      "description": "",
+      "message": "すべてのダウンロード"
+   },
+   "optionsTitle": {
+      "description": "",
+      "message": "オプション"
+   },
+   "cancelTitle": {
+      "description": "",
+      "message": "キャンセル"
+   },
+   "clearAllTitle": {
+      "description": "",
+      "message": "表示されているダウンロードをすべて消去する"
+   },
+   "clearAllText": {
+      "description": "",
+      "message": "すべてクリア"
+   },
+   "clearCompletedTitle": {
+      "description": "",
+      "message": "完了したダウンロードをすべてクリア"
+   },
+   "clearCompletedText": {
+      "description": "",
+      "message": "クリア完了"
+   },
+   "clearDeletedTitle": {
+      "description": "",
+      "message": "削除されたダウンロードをすべてクリア"
+   },
+   "clearDeletedText": {
+      "description": "",
+      "message": "削除済みをクリア"
+   },
+   "clearFailedTitle": {
+      "description": "",
+      "message": "失敗したダウンロードをすべてクリア"
+   },
+   "clearFailedText": {
+      "description": "",
+      "message": "クリア失敗"
+   },
+   "eraseTitle": {
+      "description": "",
+      "message": "リストから消去"
+   },
+   "errorRemoved": {
+      "description": "",
+      "message": "削除しました"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "ダウンロードをすばやく簡単に管理および操作する"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "ダウンロードマネジャー"
+   },
+   "grantManagementPermission": {
+      "description": "",
+      "message": "ファイルをダウンロードする拡張機能へのリンクを表示する."
+   },
+   "loadingOlderDownloads": {
+      "description": "",
+      "message": "古いダウンロードの読み込み..."
+   },
+   "managementPermissionInfo": {
+      "description": "",
+      "message": "一部のファイルは拡張機能によってダウンロードされました."
+   },
+   "month0abbr": {
+      "description": "",
+      "message": "1月"
+   },
+   "month10abbr": {
+      "description": "",
+      "message": "11月"
+   },
+   "month11abbr": {
+      "description": "",
+      "message": "12月"
+   },
+   "month1abbr": {
+      "description": "",
+      "message": "2月"
+   },
+   "month2abbr": {
+      "description": "",
+      "message": "3月"
+   },
+   "month3abbr": {
+      "description": "",
+      "message": "4月"
+   },
+   "month4abbr": {
+      "description": "",
+      "message": "5月"
+   },
+   "month5abbr": {
+      "description": "",
+      "message": "6月"
+   },
+   "month6abbr": {
+      "description": "",
+      "message": "7月"
+   },
+   "month7abbr": {
+      "description": "",
+      "message": "8月"
+   },
+   "month8abbr": {
+      "description": "",
+      "message": "9月"
+   },
+   "month9abbr": {
+      "description": "",
+      "message": "10月"
+   },
+   "openDownloadsFolderTitle": {
+      "description": "",
+      "message": "ダウンロードフォルダを開く"
+   },
+   "openDownloadsFolderText": {
+      "description": "",
+      "message": "ダウンロードフォルダ"
+   },
+   "settingsTitle": {
+      "description": "",
+      "message": "設定"
+   },
+   "settingsText": {
+      "description": "",
+      "message": "設定"
+   },
+   "openTitle": {
+      "description": "",
+      "message": "開く"
+   },
+   "openWhenCompleteDays": {
+      "description": "",
+      "message": "で開く $days$d $hours$h",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "openWhenCompleteFinishing": {
+      "description": "",
+      "message": "すぐに開く"
+   },
+   "openWhenCompleteHours": {
+      "description": "",
+      "message": "で開く $hours$h $mins$m",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteMinutes": {
+      "description": "",
+      "message": "で開く $mins$m $sec$s",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "openWhenCompleteSeconds": {
+      "description": "",
+      "message": "  で開く $sec$s",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "pauseTitle": {
+      "description": "",
+      "message": "一時停止"
+   },
+   "referrerTitle": {
+      "description": "",
+      "message": "参照元"
+   },
+   "removeFileTitle": {
+      "description": "",
+      "message": "ファイルを削除"
+   },
+   "resumeTitle": {
+      "description": "",
+      "message": "再開"
+   },
+   "retryTitle": {
+      "description": "",
+      "message": "再試行"
+   },
+   "searchPlaceholder": {
+      "description": "",
+      "message": "検索..."
+   },
+   "searching": {
+      "description": "",
+      "message": "ヤギのテレポート..."
+   },
+   "showInFolderTitle": {
+      "description": "Alt text for show in folder icon",
+      "message": "フォルダに表示"
+   },
+   "showOlderDownloads": {
+      "description": "",
+      "message": "古いダウンロードの表示"
+   },
+   "tabTitle": {
+      "description": "tab title",
+      "message": "ダウンロード"
+   },
+   "timeLeftDays": {
+      "description": "",
+      "message": "$days$d $hours$h 左",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         },
+         "hours": {
+            "content": "$2",
+            "example": "23"
+         }
+      }
+   },
+   "timeLeftFinishing": {
+      "description": "",
+      "message": "仕上げ..."
+   },
+   "timeLeftHours": {
+      "description": "",
+      "message": "$hours$h $mins$m 左",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "23"
+         },
+         "mins": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftMinutes": {
+      "description": "",
+      "message": "$mins$m $sec$s 左",
+      "placeholders": {
+         "mins": {
+            "content": "$1",
+            "example": "59"
+         },
+         "sec": {
+            "content": "$2",
+            "example": "59"
+         }
+      }
+   },
+   "timeLeftSeconds": {
+      "description": "",
+      "message": "$sec$s 左",
+      "placeholders": {
+         "sec": {
+            "content": "$1",
+            "example": "59"
+         }
+      }
+   },
+   "zeroItems": {
+      "description": "",
+      "message": "ダウンロードアイテムはありません."
+   },
+   "zeroSearchResults": {
+      "description": "",
+      "message": "ゼロ一致"
+   }
+}
